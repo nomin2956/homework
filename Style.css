@@ -1,0 +1,31 @@
+body {
+    background-color: #CCFF99;
+}
+
+table, td {
+    border: 2px solid;
+    padding: 2px;
+    spacing: 2px;
+}
+
+h1 {
+    color: #FF0000;
+    font-family: Arial, sans-serif;
+    font-size: 36px;
+    text-align: center;
+}
+
+h2 {
+    color: #400000;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    text-align: center;
+}
+
+h3 {
+    color: #400000;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    text-align: left;
+}
+

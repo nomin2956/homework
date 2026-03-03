@@ -1,0 +1,38 @@
+table {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    color: #000080;
+    font-family: Arial, Verdana;
+    font-size: 30px;
+    text-align: center;
+}
+
+h2, h3, li {
+    font-family: Arial, "Times New Roman";
+}
+
+h2, li {
+    font-size: 16px;
+}
+
+h3 {
+    font-size: 14px;
+    font-style: italic;
+}
+
+table, td, th {
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+body {
+    background: #00ff99;
+    color: #000000;
+    text-align: left;
+}
+
+

@@ -1,0 +1,18 @@
+h1 {
+    color: #000040;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    text-align: center;
+}
+
+h2 {
+    color: #000000;
+    font-family: "Times New Roman", serif;
+    font-size: 15px;
+    text-align: center;
+}
+
+body {
+    background-image: url("backgd.jpg");
+    background-color: #025fb4;
+}

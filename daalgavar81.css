@@ -1,0 +1,18 @@
+h1 {
+    color: #FFFF00;
+    font-family: Arial, "Times New Roman", serif;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2 {
+    color: #0000CC;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    text-align: right;
+}
+
+body {
+    background-color: #00CCFF;
+}
